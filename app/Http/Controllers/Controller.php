@@ -13,6 +13,7 @@ class Controller extends BaseController
     ///comment add in controller
      public function FunctionName($value='')
     {
+        $var2 = "InstantFix";
         $vari = "Ayush"; 
         return true;
     }
